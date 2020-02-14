@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nadan Recipes</title>
+    <link>https://nadanrecipes.com/</link>
+    <description>Recent content on Nadan Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 16:08:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://nadanrecipes.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kovakka (Tindora) Mezhukkupuratti</title>
+      <link>https://nadanrecipes.com/recipe/kovakka-mezhukkupuratti/</link>
+      <pubDate>Tue, 28 Jan 2020 16:08:34 -0500</pubDate>
+      
+      <guid>https://nadanrecipes.com/recipe/kovakka-mezhukkupuratti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kerala Kadala (chickpea) curry</title>
+      <link>https://nadanrecipes.com/recipe/kadala-curry/</link>
+      <pubDate>Thu, 23 Jan 2020 15:34:06 -0500</pubDate>
+      
+      <guid>https://nadanrecipes.com/recipe/kadala-curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken Biriyani</title>
+      <link>https://nadanrecipes.com/recipe/chicken-biriyani/</link>
+      <pubDate>Sun, 05 Jan 2020 15:34:06 -0500</pubDate>
+      
+      <guid>https://nadanrecipes.com/recipe/chicken-biriyani/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
